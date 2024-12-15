@@ -10,7 +10,7 @@ export default function Home() {
         <h2 className="text-2xl sm:text-3xl font-bold text-center sm:text-left">Hello, and thank you for visiting!</h2>
         <h3 className="text-xl sm:text-2xl font-bold text-center sm:text-left"
         >
-          My name is "Marvel Maher", and I’m a passionate <span className="text-[#ff00ff]">Frontend Developer</span> . My portfolio website is currently under development as I work to craft a visually stunning and functional showcase of my skills and projects.
+          My name is &quot;Marvel Maher&quot;, and I’m a passionate <span className="text-[#ff00ff]">Frontend Developer</span> . My portfolio website is currently under development as I work to craft a visually stunning and functional showcase of my skills and projects.
         </h3>
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <h4 className="text-base mb-1 sm:text-base font-bold text-center sm:text-left">
